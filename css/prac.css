@@ -1,0 +1,89 @@
+tbody tr{
+
+}
+
+h2 {
+
+    padding-left: 220px;
+    margin-left: -10px;
+    margin-right: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(22, 150, 201);
+}
+
+.more{
+    margin-top: -10px;
+}
+
+body {
+    color: black;
+    background-color: rgb(98, 190, 170);
+    margin-left: 10px;
+    margin-right: 1300px;
+    border-right: 2px solid black;
+
+}
+
+h4{
+    font-style: italic;
+    
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#name {
+    font-size: 18px;
+}
+
+p{
+    font-family: monospace;
+    font-size: 16px;
+}
+
+body{
+    font-size: 13pt;
+}
+
+.blue{
+    background-color: rgb(22, 150, 201);
+    color: rgb(22, 150, 201);
+    margin-left: -10px;
+    margin-right: -1600px;
+    margin-bottom: -100px;
+    padding-bottom: 200px;
+    border-top: 2px solid black;
+}
+
+.thetable{
+    padding: 5px, 5px, 5px, 5px;
+    border: 1px solid black;
+    margin-left: 20px;
+    width: 90%;
+}
+
+.boldit{
+    font-weight: bold;
+}
+
+.blob{
+    height: 208px;
+    width: 2000px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    opacity: 5%;
+    
+}
+
+.background{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 1300px;
+    height: 736px;
+    opacity: 30%;
+}
